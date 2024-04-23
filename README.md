@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hamad Hassan</h1>
-<h3 align="center">A passionate full stack developer on [Upwork](https://www.upwork.com/freelancers/~013f9aeb96d5a8ff74)</h3>
+<h3 align="center">A passionate full stack developer on <b>[Upwork]</b>)</h3>
 - 🔭 I’m currently working on [Next.js](https://github.com/seersol92/next-js-prisma-openAi-quizify-app)
 
-- 👨‍💻 Some of my projects are available at [https://github.com/seersol92](https://github.com/seersol92)
+- 👨‍💻 Some of my projects are available at [seersol92](https://github.com/seersol92)
 
 - 💬 Ask me about **Laravel,Node.js,React.js, Next.js**
 
