@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamad Hassan</h1>
-<h3 align="center">A passionate full stack developer on <b>[Upwork]</b></h3>
+<h3 align="center">A passionate full stack developer</b></h3>
 - 🔭 I’m currently working on Django, Next.js
 
 - 👨‍💻 Some of my projects are available at [seersol92](https://github.com/seersol92)
