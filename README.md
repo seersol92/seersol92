@@ -8,7 +8,7 @@
 
 - 📄 Know about my experiences and recent work done on [Upwork](https://www.upwork.com/freelancers/~013f9aeb96d5a8ff74)
 
-- ⚡ More than 30,000 Hours Logged on Upwork **[Upwork](https://www.upwork.com/freelancers/~013f9aeb96d5a8ff74)**
+- ⚡ More than 30,000 Hours Logged on **[Upwork](https://www.upwork.com/freelancers/~013f9aeb96d5a8ff74)**
   
 - 📫 How to reach me **hamad.seersol@gmail.com**
 
